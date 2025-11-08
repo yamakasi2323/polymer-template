@@ -6,7 +6,7 @@ The repository is a _GitHub template_ repository so you can click "Use this temp
 
 ![GitHub template](./img/gh_template.png)
 
-## 📚 Documentation
+## 📚 Documentation-
 
 There's some basic information here in the README but a more comprehensive documentation can be found in [the official Polymer documentation](https://docs.polymerlabs.org/docs/category/build-ibc-dapps-1).
 
